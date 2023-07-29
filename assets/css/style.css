@@ -36,3 +36,9 @@ p {
     color: #fff;
     font-size: 70px;
 }
+
+h6 {
+margin: 5vh;
+text-align: center;
+color: white;
+}
